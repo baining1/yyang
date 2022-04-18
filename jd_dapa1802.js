@@ -8,7 +8,7 @@ let guaopenwait = "0"
 let guaopencard_draw = "10"
 var sq = 0
 let startck = 0
-const $ = new Env('大牌联合0416-1');
+const $ = new Env('大牌联合0418-1');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const notify = $.isNode() ? require('./sendNotify') : '';
 CryptoScripts()
